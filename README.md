@@ -40,8 +40,9 @@ The app will now be accessible at http://localhost:5000
 Open your browser and hit http://localhost:5000/
 
 ### Expected response:
+
 {
-  "timestamp": "2025-04-15T12:34:56",
-  "ip": "127.0.0.1"
+  "ip": "172.17.0.1",
+  "timestamp": "2025-04-15T20:03:02.477350"
 }
   
