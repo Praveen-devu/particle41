@@ -1,18 +1,29 @@
+# Task 1 - Minimalist Application Development / Docker / Kubernetes
+
 ### Prerequisites
 Git
+
 Python
+
 Docker
+
 Visual Studio
 
+Make sure your docker is running while doing this entire process
+
 ### Create a folder 
-for example
+example: 
 mkdir simple_time_service
 cd simple_time_service
 
 ### Clone the Repository
 
 git clone https://github.com/Praveen-devu/particle41.git
+
+cd particle41
+
 git checkout simpletimeservice
+
 
 ### Build the Docker Image
 
