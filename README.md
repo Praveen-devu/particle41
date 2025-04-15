@@ -14,6 +14,7 @@ Make sure your docker is running while doing this entire process
 ### Create a folder 
 example: 
 mkdir simple_time_service
+
 cd simple_time_service
 
 ### Clone the Repository
